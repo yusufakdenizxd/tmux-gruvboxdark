@@ -59,7 +59,7 @@ tmux_set status-right-bg "$BG"
 tmux_set status-right-fg "$G12"
 tmux_set status-right-length 150
 
-RS="#{prefix_highlight}#[fg=$TC,bg=$G06]$larrow#[fg=$G04,bg=$TC] $keyboard_layout #[fg=$G06]$larrow#[fg=$TC,bg=$G06] %T #[fg=$TC,bg=$G06]$larrow#[fg=$G04,bg=$TC] %F "
+RS="#{prefix_highlight}#[fg=$TC,bg=$G04]$larrow#[fg=$G04,bg=$TC] $keyboard_layout #[fg=$G06]$larrow#[fg=$TC,bg=$G06] %T #[fg=$TC,bg=$G06]$larrow#[fg=$G04,bg=$TC] %F "
 
 tmux_set status-right "$RS"
 
