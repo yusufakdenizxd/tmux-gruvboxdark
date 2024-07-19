@@ -20,7 +20,7 @@ set -g @plugin 'yusufakdenizxd/tmux-gruvboxdark'
 
 #### Gallery
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/screenshot.png)
 
 #### Keyboard Layout (Only for Macos)
 
