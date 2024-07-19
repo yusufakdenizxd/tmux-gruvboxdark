@@ -20,7 +20,15 @@ set -g @plugin 'yusufakdenizxd/tmux-gruvboxdark'
 
 #### Gallery
 
-![screenshot]()
+![screenshot](screenshot.png)
+
+#### Keyboard Layout (Only for Macos)
+
+Turkish Layout:
+![turkish](screenshots/turkish.png)
+
+ABC Layout:
+![abc](screenshots/abc.png)
 
 ### Heavily inspired by
 
